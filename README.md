@@ -8,6 +8,10 @@ dalek-internal-test
 [![Dependency Status](https://david-dm.org/dalekjs/dalek-internal-test.png)](https://david-dm.org/dalekjs/dalek-internal-test)
 [![devDependency Status](https://david-dm.org/dalekjs/dalek-internal-test/dev-status.png)](https://david-dm.org/dalekjs/dalek-internal-test#info=devDependencies)
 [![NPM version](https://badge.fury.io/js/dalek-internal-test.png)](http://badge.fury.io/js/dalek-internal-test)
+[![Coverage](http://dalekjs.com/package/dalek-internal-test/master/coverage/coverage.png)](http://dalekjs.com/package/dalek-internal-test/master/coverage/index.html)
+[![unstable](https://rawgithub.com/hughsk/stability-badges/master/dist/unstable.svg)](http://github.com/hughsk/stability-badges)
+
+[![NPM](https://nodei.co/npm/dalek-internal-test.png)](https://nodei.co/npm/dalek-internal-test/)
 
 ## Warning
 
@@ -16,7 +20,8 @@ It provides a helper for browser tests used by DalekJS.
 
 ## Ressources
 
-[API Documentation](http://dalekjs.com/package/dalek-internal-test/master/api/index.html) -
+[API Docs](http://dalekjs.com/package/dalek-internal-test/master/api/index.html) -
+[Trello](https://trello.com/b/0tVr3clr/dalek-internal-test) -
 [Code coverage](http://dalekjs.com/package/dalek-internal-test/master/coverage/index.html) -
 [Code complexity](http://dalekjs.com/package/dalek-internal-test/master/complexity/index.html) -
 [Contributing](https://github.com/dalekjs/dalek-internal-test/blob/master/CONTRIBUTING.md) -
