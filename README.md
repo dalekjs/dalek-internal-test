@@ -12,11 +12,7 @@ dalek-internal-test
 [![unstable](https://rawgithub.com/hughsk/stability-badges/master/dist/unstable.svg)](http://github.com/hughsk/stability-badges)
 
 [![NPM](https://nodei.co/npm/dalek-internal-test.png)](https://nodei.co/npm/dalek-internal-test/)
-
-## Warning
-
-This module is only used internally by [DalekJS](//github.com/dalekjs/dalek).
-It provides a helper for browser tests used by DalekJS.
+[![NPM](https://nodei.co/npm-dl/dalek-internal-test.png)](https://nodei.co/npm/dalek-internal-test/)
 
 ## Ressources
 
@@ -28,6 +24,11 @@ It provides a helper for browser tests used by DalekJS.
 [User Docs](http://dalekjs.com/docs/master/test.html) -
 [Homepage](http://dalekjs.com) -
 [Twitter](http://twitter.com/dalekjs)
+
+## Docs
+
+This module is only used internally by [DalekJS](//github.com/dalekjs/dalek).
+It provides a helper for browser tests used by DalekJS.
 
 ## Help Is Just A Click Away
 
@@ -62,7 +63,7 @@ requests that implement the feature).
 other, better channels for seeking assistance, like StackOverflow and the
 Google Groups mailing list.
 
-![DalekJS](https://raw.github.com/dalekjs/dalekjs.com/master/img/logo.jpg)
+![DalekJS](https://raw.github.com/dalekjs/dalekjs.com/master/img/logo.png)
 
 ## Legal FooBar (MIT License)
 
