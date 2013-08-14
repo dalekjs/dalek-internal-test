@@ -327,7 +327,7 @@ Test.prototype = {
    */
 
   _inheritAssertionHelpers: function (test) {
-    ['not', 'between', 'gt', 'gte', 'lt', 'lte'].forEach(function (method) {
+    ['not', 'between', 'gt', 'gte', 'lt', 'lte', 'like'].forEach(function (method) {
       test.is[method] = test.assert[method].bind(test.assert);
       test.assert.is[method] = test.assert[method].bind(test.assert);
     });
