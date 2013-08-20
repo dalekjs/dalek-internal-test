@@ -1,7 +1,7 @@
 'use strict';
 
 var expect = require('chai').expect;
-var EventEmitter = require('events').EventEmitter;
+//var EventEmitter = require('events').EventEmitter;
 //var test = require('../index.js');
 
 describe('dalek-internal-test', function() {
