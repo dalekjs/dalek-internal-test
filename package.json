@@ -11,7 +11,7 @@
   "dependencies": {
     "lodash": "~2.0.0",
     "q": "~0.9.7",
-    "dalek-internal-actions": "~0.0.2",
+    "dalek-internal-actions": "~0.0.3",
     "dalek-internal-assertions": "~0.0.2"
   },
   "devDependencies": {
